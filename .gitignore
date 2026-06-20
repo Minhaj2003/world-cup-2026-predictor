@@ -1,0 +1,6 @@
+data/results.csv
+data/features_built.csv
+model.pkl
+scaler.pkl
+__pycache__/
+*.pyc
